@@ -1,0 +1,32 @@
+h1 {
+	background-color: #5555ff;
+	color: #ffffff;
+
+}
+
+div {
+	align-items: center;
+}
+
+h3 {
+	font-size: 0.8em;
+	color: #ff0000;
+	font-weight: bold;	
+
+}
+
+#divNovoAutor{
+	visibility:hidden;
+}
+
+#divNovaEditora{
+	visibility:hidden;
+}
+
+#divNovoGenero {
+	visibility:hidden;
+}
+
+input.uppercase {
+  text-transform: uppercase;
+ }
